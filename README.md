@@ -1,2 +1,2 @@
 # BasicProjects
-Practicing HTML CSS & JAVAsCRIPT all togather
+Practicing HTML CSS & JAVASCRIPT all togather
